@@ -11,3 +11,5 @@
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
+
+I'm a passionate Software Engineering graduate from McMaster University. I enjoy building amazing products that focus on solving problems for different niches and different industries using the power of technology. Experienced in a wide range of programming languages such as JavaScript, Python, Java, C, and C++. I am always willing to learn something new and gain experience from the projects I am involved in.
