@@ -14,7 +14,7 @@
 
 I'm a passionate Software Engineering graduate from McMaster University. I enjoy building amazing products that focus on solving problems for different niches and different industries using the power of technology. I am always willing to learn something new and gain experience from the projects I am involved in.
 
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=TasinAhmed&hide_border=true&theme=react-dark)
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=TasinAhmed&hide_border=true&theme=redical)
 
 ## ⚡ Tech Stack
 
@@ -71,6 +71,6 @@ I'm a passionate Software Engineering graduate from McMaster University. I enjoy
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TasinAhmed&show_icons=true&hide_border=true&theme=dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TasinAhmed&hide_border=true&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TasinAhmed&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TasinAhmed&hide_border=true&theme=radical" />
 </p>
