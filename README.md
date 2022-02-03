@@ -7,7 +7,7 @@
   <a href="https://www.tasin.ca/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
-  <a href="mailto:attasin1998@gmail.com">
+  <a href="mailto:atasin1998@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
